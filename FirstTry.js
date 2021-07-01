@@ -22,7 +22,7 @@ app.get("/getURLTing", (req, res)=> {
         //client secret
         "XjI_BU1JIk454RAZNwPzHMwY",
         //Link to redirect
-        "http://localhost:8080/"
+        "https://localhost:8080/"
     );
         const scopes = ["https://www.googleapis.com/auth/fitness.activity.read profile email openid"]
 
